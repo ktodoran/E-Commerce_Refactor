@@ -12,7 +12,7 @@ import Nav from "./components/Nav";
 import {Provider} from 'react-redux'
 import Success from "./pages/Success";
 import OrderHistory from "./pages/OrderHistory";
-import store from "./utils/ReduxStore";
+import store from "./utils/reduxstore";
 const client = new ApolloClient({
   request: (operation) => {
     const token = localStorage.getItem('id_token')
