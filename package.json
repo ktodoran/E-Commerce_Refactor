@@ -14,9 +14,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "@apollo/client": "^3.4.13",
     "graphql": "^15.6.0",
     "if-env": "^1.0.4"
+=======
+    "graphql": "^15.5.3",
+    "if-env": "^1.0.4",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1"
+>>>>>>> f3457c241ec7f5b64c3c1b5aa04ab398bac8f0ba
   },
   "devDependencies": {
     "concurrently": "^5.1.0"
