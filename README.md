@@ -1,5 +1,8 @@
 # E-Commerce_Refactor
 
+> **Archived coursework (2021).** Built during Butler University's full-stack boot camp. Kept as a record of where I started; no longer maintained. The Heroku deployment linked below is no longer live.
+
+
   ## Description
   This application allows users to shop for various items, and add them to their cart, and make a purchase using Stripe. Redux has been implemented to manage global state instead of Context API
 
